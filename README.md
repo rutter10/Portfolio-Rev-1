@@ -11,3 +11,6 @@ Deployed Page - https://rutter10.github.io/Portfolio-Rev-1/
 ### Licensing:
 MIT Licensing   
 
+### Screenshot
+Screen shot of webpage
+![Screenshot of Application](Screenshot.png)
