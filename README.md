@@ -13,4 +13,4 @@ MIT Licensing
 
 ### Screenshot
 Screen shot of webpage
-![Screenshot of Application](Screenshot.png)
+![Screenshot of Application](assets/images/Screenshot.png)
